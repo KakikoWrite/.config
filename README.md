@@ -1,2 +1,2 @@
-# .config
-Ubuntu v16.04 ~/.config/
+# .config-conky
+Ubuntu v16.04 ~/.config/conky/
